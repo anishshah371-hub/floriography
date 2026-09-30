@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Generated data (reproducible: see README "Installation & running locally")
+data/processed/
+artifacts/*.pkl
+
+# Environment
+.env
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
